@@ -34,11 +34,12 @@ The Kickstarter analysis provided the following insights to Louise
 4.The mean is larger than the median: skewed to the right
 
 ![Descriptive Statistics](https://user-images.githubusercontent.com/67847583/115182619-e52b5a80-a09f-11eb-990e-f7e0a731a284.png)
+
+
+Based on these statistics, we can determine the following:
 -The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
 -The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center.
 -Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
-
-
 
 
 
