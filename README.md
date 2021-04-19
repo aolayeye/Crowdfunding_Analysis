@@ -1,6 +1,6 @@
 
 # An Analysis of Kickstarter Campaigns.
-performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends
 ## Brief Description of the Kickstarter Analysis
 Text Goes Here
 ### Finding 1
