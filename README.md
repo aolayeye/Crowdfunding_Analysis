@@ -10,7 +10,7 @@ We can help Louise set up her incentives by first determining how much money peo
 The Kickstarter analysis provided the following insights to Louise
 1 With the help of filters, we are able to focus on money raised by various campigns and we are able use data from the Pledged column to research projects with amounts similar Louise's monetary goal
 2 A clear highlight of successful, failed, and canceled campaigns. This was achieved with the help of Conditional Formatting. This offers The ability to visually process outcomes at a glance will be very useful for Louise
-3 To further assist Louise in her decision making, the analysis provides mean plegde column. This will help Louise detrmine which projets gets the most donations. we achieved this with the an average funding column ( Average Donation) Now we can quickly determine how close a campaign came to reaching---and in some cases, exceeding---their funding goal.
+3 To further assist Louise in her decision making, the analysis provides a percentage funded column. This will help Louise detrmine which projets gets the most donations. we achieved this with the an average funding column ( Percentage Donation) Now we can quickly determine how close a campaign came to reaching---and in some cases, exceeding---their funding goal.
 4 The analysis takes the average donation a step further and applied visual cues to help Louise determine success or fail at a glance. we achieed this by we'll apply a range of colors, based on the percentage funded.
 
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/67847583/115134453-d2e4ea00-9fd5-11eb-8f87-a5eb3706b4be.png)
