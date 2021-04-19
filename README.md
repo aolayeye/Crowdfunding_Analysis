@@ -43,7 +43,7 @@ Based on these statistics, we can determine the following:
 
 
 
-#### Recommendation
+#### The Recommendations
 
 ![Box Plots - Goal and Pledged](https://user-images.githubusercontent.com/67847583/115134583-06744400-9fd7-11eb-85fd-89a6bbadcae8.png)
 
