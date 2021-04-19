@@ -13,8 +13,8 @@ The Kickstarter analysis provided the following insights to Louise
 3. To further assist Louise in her decision making, the analysis provides a percentage funded column. This will help Louise detrmine which projets gets the most donations. we achieved this with the an average funding column ( Percentage Donation) Now we can quickly determine how close a campaign came to reaching---and in some cases, exceeding---their funding goal.
 4. The analysis takes the average donation a step further and applied visual cues to help Louise determine success or fail at a glance. we achieed this by we'll apply a range of colors, based on the percentage funded.
 5. Another step in our analysis is help Louise determine what incentives she will attach to her funding goal, the analysis help Louise achieve this with Average Donation column, by examinining how much people have pledged to campaigns historically, we would help Louise determine 
-- a fair sense of what funding to expect and 
-- what incentives to offer
+  - a fair sense of what funding to expect and 
+  - what incentives to offer
 6. Since Louise is interested in the play subcategory, the analysis utilizes pivot tables to help visually uncover insights within the theater parent category
 ### The Findings
 1. If we filter for only the United States campaigns, we will find that there were 525 successful theater Kickstarters.
