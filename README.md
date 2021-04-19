@@ -16,6 +16,9 @@ The Kickstarter analysis provided the following insights to Louise
   - a fair sense of what funding to expect and 
   - what incentives to offer
 6. Since Louise is interested in the play subcategory, the analysis utilizes pivot tables to help visually uncover insights within the theater parent category
+7. The story of Pivot Charts
+8. The story of VLOOKUP
+9. The Story of Timing Success: highlight the use of formulas to convert dates
 ### The Findings
 1. If we filter for only the United States campaigns, we will find that there were 525 successful theater Kickstarters.
 2. We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
