@@ -2,7 +2,8 @@
 # An Analysis of Kickstarter Campaigns.
 Performing analysis on Kickstarter data to uncover trends
 ## Brief Description of the Kickstarter Analysis
-Text Goes Here
+The objective of this analysis is to determine whether there are specific factors that makes a projects campaingn successful. The is based on the Kickstarter data which contains campaign information about different crowd funding project.
+At the end of the analysis, we would be able to help Louise determine if she should jump into her first crowd funding campaign and what factors she should consider.
 ### Finding 1
 1
 2
