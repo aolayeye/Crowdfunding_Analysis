@@ -16,9 +16,11 @@ The Kickstarter analysis provided the following insights to Louise
 6 Since Louise is interested in the play subcategory, the analysis utilizes pivot tables to help visually uncover insights within the theater parent category
 ### The Findings
 1 If we filter for only the United States campaigns, we will find that there were 525 successful theater Kickstarters.
-Add a visual here
 2 We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
-Add a visual here
+
+
+
+
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/67847583/115134453-d2e4ea00-9fd5-11eb-8f87-a5eb3706b4be.png)
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/67847583/115134457-dbd5bb80-9fd5-11eb-860b-3fccad301a92.png)
 
