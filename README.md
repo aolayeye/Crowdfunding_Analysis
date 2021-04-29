@@ -40,7 +40,8 @@ The Purpose of the analysis is to determine the outcome of campaigns based on go
 2. Beyond $15,000 we see a dip in success rate, though a few campaigns with goals betwen $35,000 to $45,000 recorded higher than 60% suceess rate.
 3. While very few campaigns with goals between $35,000 and $45,0000 had more than 65% success rate, more than 60% of all campigns with goals $15,000 or less were successful. This follows from our earlier Box plots analysis where we determined that the higher the goal the less like the campaign is successful
 
-![Outcomes_vs_Goals](2021-04-20-21-27-46.png)
+![image](https://user-images.githubusercontent.com/67847583/116496909-bbc2b980-a86b-11eb-868b-96ccbac69174.png)
+
 
 
 ### Challenges and Difficulties Encountered
