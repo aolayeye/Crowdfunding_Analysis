@@ -27,7 +27,12 @@ The Purpose of the analysis is to determine the outcome of campaigns based on go
 ### Analysis of Outcomes Based on Launch Date
 1. From the Theater Outcomes Based on Launch Month, we find that the month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. 
 
+
+
 ![Theater_Outcomes_vs_Launch](2021-04-20-21-33-56.png)
+
+
+
 ### Analysis of Outcomes Based on Goals
 1. Campaigns with goals of $15,000 or less had more than 50% success rate.
 2. Beyond $15,000 we see a dip in success rate, though a few campaigns with goals betwen $35,000 to $45,000 recorded higher than 60% suceess rate.
