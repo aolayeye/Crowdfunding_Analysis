@@ -67,4 +67,4 @@ From our descriptive statistics of Successful, and Failed US Kickstarters we det
 - What are some other possible tables and/or graphs that we could create?
   Additional analysis can be done around length of campaign. This can be done by adding a calculated column that is the difference launch date and deadline. We may then create a pivot chart of campaign length on columns and outcomes on rows. This type of chart may help answer the question of the length of needed to run a campaign in order to be successful.
 
-  This type of chart together with our outcomes based on launch date, and goals, Louise may be able to figure the sweet spot between this 3 variables.
+This type of chart together with our outcomes based on launch date, and goals, Louise may be able to figure the sweet spot between this 3 variables.
