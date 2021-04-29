@@ -29,7 +29,8 @@ The Purpose of the analysis is to determine the outcome of campaigns based on go
 
 
 
-![Theater_Outcomes_vs_Launch](2021-04-20-21-33-56.png)
+![](Theater_Outcomes_vs_Launch.png)
+
 
 
 
