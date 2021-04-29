@@ -35,6 +35,7 @@ The Purpose of the analysis is to determine the outcome of campaigns based on go
 
 ![Outcomes_vs_Goals](2021-04-20-21-27-46.png)
 
+
 ### Challenges and Difficulties Encountered
 From our descriptive statistics of Successful, and Failed US Kickstarters we determined:
 - The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
