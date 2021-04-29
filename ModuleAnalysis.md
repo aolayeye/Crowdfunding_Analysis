@@ -42,7 +42,6 @@ Based on these statistics, we can determine the following:
  - Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
 
 
-
 #### The Recommendations
 
 ![Box Plots - Goal and Pledged](https://user-images.githubusercontent.com/67847583/115134583-06744400-9fd7-11eb-85fd-89a6bbadcae8.png)
