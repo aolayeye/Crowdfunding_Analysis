@@ -52,20 +52,20 @@ From our descriptive statistics of Successful, and Failed US Kickstarters we det
 
 ## Results
 
-- Conclusions about the Outcomes based on Launch Date?
+#### Conclusions about the Outcomes based on Launch Date?
 1. From the Theater Outcomes Based on Launch Month, we find that the month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
 2. The month of May might have been the most successful, it also had the highest number of failed campaigns. This may however be due to the fact May also had a high number campaigns.
 
-- Conclusions about the Outcomes based on Goals?
+#### Conclusions about the Outcomes based on Goals?
 1. Campaigns with goals of $15,000 or less had more than 50% success rate.
 2. Beyond $15,000 we see a dip in success rate, though a few campaigns with goals betwen $35,000 to $45,000 recorded higher than 60% suceess rate.
 3. While very few campaigns with goals between $35,000 and $45,0000 had more than 65% success rate, more than 60% of all campigns with goals $15,000 or less were successful. This follows from our earlier Box plots analysis where we determined that the higher the goal the less like the campaign is successful
 
-- Some limitations of this dataset?
+#### Some limitations of this dataset?
 
-While our analysis on outcomes based on launch date, and outcomes based on goals may have revealed the best time of the year to launch a campaign and the optimal campaign goal, it is essential to note that there may be further interactions between the different variables and whether a campaign is successful or not. Our analysis has solely based on continous variables (to determine whether a project is successful or not). If we had more qualitative data or we knew what variables like spotlight and staff_pick means, we may be able to illuminate other factors that are the strongest predictors of campaign outcome
+While our analysis on outcomes based on launch date, and outcomes based on goals may have revealed the best time of the year to launch a campaign and the optimal campaign     goal, it is essential to note that there may be further interactions between the different variables and whether a campaign is successful or not. Our analysis has solely based on continous variables (to determine whether a project is successful or not). If we had more qualitative data or we knew what variables like spotlight and staff_pick means, we may be able to illuminate other factors that are the strongest predictors of campaign outcome
 
-- Some other possible tables and/or graphs that we could create?
+#### Some other possible tables and/or graphs that we could create?
 
 Additional analysis can be done around length of campaign. This can be done by adding a calculated column that is the difference launch date and deadline. We may then create a pivot chart of campaign length on columns and outcomes on rows. This type of chart may help answer the question of the length of needed to run a campaign in order to be successful.
 
