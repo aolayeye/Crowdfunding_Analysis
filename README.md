@@ -63,7 +63,7 @@ From our descriptive statistics of Successful, and Failed US Kickstarters we det
 
 #### Some limitations of this dataset?
 
-While our analysis on outcomes based on launch date, and outcomes based on goals may have revealed the best time of the year to launch a campaign and the optimal campaign     goal, it is essential to note that there may be further interactions between the different variables and whether a campaign is successful or not. Our analysis has solely based on continous variables (to determine whether a project is successful or not). If we had more qualitative data or we knew what variables like spotlight and staff_pick means, we may be able to illuminate other factors that are the strongest predictors of campaign outcome
+While our analysis on outcomes based on launch date, and outcomes based on goals may have revealed the best time of the year to launch a campaign and the optimal campaign     goal, it is essential to note that there may be further interactions between the different variables and whether a campaign is successful or not. Our analysis is solely based on continous variables (to determine whether a project is successful or not). If we had more qualitative data or we knew what variables like spotlight and staff_pick means, we may be able to illuminate other factors that are the strongest predictors of campaign outcome
 
 #### Some other possible tables and/or graphs that we could create?
 
